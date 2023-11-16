@@ -41,13 +41,6 @@ Users should be able to:
 - Java
 
 
-## Authors
-
-- [Samara Dumont Fadigas](https://samara.dev.br)
-- [Igor Pereira](https://github.com/Igorpereirag)
-- [Vitor Tanan]()
-- [Victor Thiago]()
-
 # QuoteMotivaBot (Português)
 ## Índice
 
