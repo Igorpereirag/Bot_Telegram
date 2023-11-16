@@ -164,6 +164,6 @@ public class QuoteMotivaBot extends TelegramLongPollingBot {
     @Override
     public String getBotToken() {
         // TODO
-        return "6704420133:AAHSAdOfbobdQ4NG2v2kAaL9JdRByPHcOJU";
+        return "//adiciona token aqui";
     }
 }
